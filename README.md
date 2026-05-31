@@ -1,6 +1,4 @@
-# Portofolio_Jessica-Aureli-P
-
-QRIS dan Gaya Hidup Digital Masyarakat Indonesia
+# Infografis QRIS dan Gaya Hidup Digital Masyarakat Indonesia #
 
 # Deskripsi
 Project ini merupakan infografis yang menyajikan perkembangan penggunaan QRIS di Indonesia serta perannya dalam mendukung gaya hidup digital masyarakat.
