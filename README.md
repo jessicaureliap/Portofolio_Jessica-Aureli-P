@@ -1,3 +1,4 @@
+# Penjelasan atau Deskripsi Setiap Projek
 # Projek 1: Infografis QRIS dan Gaya Hidup Digital Masyarakat Indonesia #
 
 Projek ini merupakan infografis yang menyajikan perkembangan penggunaan QRIS di Indonesia serta perannya dalam mendukung gaya hidup digital masyarakat. 
@@ -34,3 +35,13 @@ Insight utama :
 - Kadar alkohol adalah faktor paling berpengaruh. Dari korelasi heatmap, alkohol punya korelasi positif paling kuat terhadap kualitas wine. Semakin tinggi alkohol, semakin besar kemungkinan wine dinilai berkualitas baik
 - Volatile acidity justru menurunkan kualitas. Volitile acidity berkorelasi negatif dengan kualitas, dimana kadar asam asetat yang tinggi bisa merusak cita rasa wine dan menurunkan skor dari panel ahli
 
+# Projek 3: Menganalisis dan memvisualisasikan data penjualan di suatu Coffee Shop menggunakan tableau 
+- Data penjualan di suatu coffee shop dianalisis dan divisualisasikan menggunakan tableau
+- Grafik yang ada kemudian dipindahkan ke ppt dan diberikan penjelasan atau interpretasi
+
+# Projek 4: Melakukan forecasting Pada Data Biaya Proyek dengan Earn Value Analysis, Holt's Linear Damped Trend, dan Logistic Growth Model
+- Earn Value Analysis merupakan suatu teknik analisis managemen proyek yang menggabungkan ruang lingkup, waktu dan biaya untuk meninjau kemajuan suatu proyek
+- Holt's Linear Damped Trend merupakan salah satu metode statistik untuk melakukan forecasting pada data time series dengan berdasarkan pada naik turunnya data historis. Memiliki parameter phi sebagai damping parameter. Gunanya untuk melakukan forecast pada data yang memiliki tren, tetapi pada akhir datanya mulai mendatar.
+- Logistic Curve Model merupakan kurva berbentuk s yang awalnya naik, tapi mendekati suatu nilai atau batas maksimum (carrying capacity). Biasanya digunakan untuk melihat pertumbuhan suatu populasi. Namun, dalam kasus ini digunakan untuk memprediksi biaya yang dibutuhkan dalam suatu proyek hingga akhir.
+
+Hasil forecast ketiga metode dibandingkan dan metode yang memiliki MAPE (Mean Absolute Percentage Erorr) terkecil adalah Exponential Smoothing Holt's Damped Trend dengan MAPE 2,1% diikuti logistic growth model 2,8%, dan Earn Value Analysis. 
